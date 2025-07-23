@@ -1,5 +1,5 @@
 # Download Resume
-- [PDF File](Masud_Sajid_CV.pdf)
+- [PDF File](Masud_Sajid_Resume.pdf)
 
 ![](Masud_Sajid_Resume.png)
 
